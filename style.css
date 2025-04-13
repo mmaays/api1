@@ -1,0 +1,17 @@
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.user {
+    border: black 1px solid;
+    width: 30%;
+    padding: 20px;
+    margin: 20px;
+}
+
+.one{
+    text-align: center;
+}
